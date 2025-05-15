@@ -1,0 +1,32 @@
+@use "../base" as b;
+
+.card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 50%;
+  border-radius: 1rem;
+  background: var(--white);
+}
+
+.card {
+  .content {
+    padding: 1.5rem;
+    font-family: b.$font-body;
+  }
+  .tagline {
+    letter-spacing: 4px;
+    font-weight: 300;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+  }
+  img {
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+  }
+  h1 {
+    font-family: b.$font-header;
+  }
+  p {
+    font-family: b.$font-body;
+  }
+}

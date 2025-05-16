@@ -15,4 +15,10 @@
   img {
     overflow: visible;
   }
+
+  cursor: pointer;
+}
+
+.button:hover {
+  background: var(--green-700);
 }

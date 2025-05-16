@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot%202025-05-16%20at%2016.25.06.png)
-![](images/Screenshot%202025-05-16%20at%2016.26.51.png)
+![](./images/Screenshot%202025-05-16%20at%2016.25.06.png)
+![](./images/Screenshot%202025-05-16%20at%2016.26.51.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nerdynischal/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://nerdynischal.github.io/product-preview-card-component-main/)
+- Solution URL: [https://github.com/nerdynischal/product-preview-card-component-main](https://github.com/nerdynischal/product-preview-card-component-main)
+- Live Site URL: [https://nerdynischal.github.io/product-preview-card-component-main/](https://nerdynischal.github.io/product-preview-card-component-main/)
 
 ## My process
 
